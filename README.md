@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="profile.jpg" alt="Mohamed Aldik" width="140" style="border-radius: 50%;" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/nawar-hisso-96214419a/" target="_blank">
+  <img src="profile.jpg" alt="Mohamed Aldik" style="border-radius: 50%;" />
+  </a>
+</div>
 
 <h1 align="center">Mohamed Aldik</h1>
 <p align="center">
@@ -9,7 +11,7 @@
 
 ---
 
-🎯 Specialized in building scalable, high-performance front-end architectures using **React**, **Next.js**, **TypeScript**, and **Chakra UI**.  
+🎯 Specialized in building scalable, high-performance front-end architectures using **React**, **Next.js**, and **React Native**.  
 💡 Strong background in design systems, performance optimization, and responsive UI engineering.  
 🔧 Experienced in leading UI development for major UAE platforms like **Emirates Auction**, **KASO**, and **MetaCorp**.
 
